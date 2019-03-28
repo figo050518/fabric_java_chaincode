@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="alibaba">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/com/alibaba" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/com/alibaba" recursive="false" />
+  </library>
+</component>
